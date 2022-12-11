@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/admin/Desktop/sites/montaj-camere-supraveghere",
+	"sourceRoot": "/Volumes/DEVEL/2023/montajcamere.com",
 	"sources": [
 		"ananke/css/main.css"
 	],
