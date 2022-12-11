@@ -1,0 +1,4 @@
+baseURL = 'https://montajcamere.com/'
+languageCode = 'ro-ro'
+title = 'Montaj Camere Supraveghere'
+theme = 'ananke'
